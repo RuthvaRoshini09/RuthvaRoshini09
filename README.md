@@ -30,13 +30,11 @@ Passionate about building practical solutions by combining **hardware, software,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RuthvaRoshini09&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=RuthvaRoshini09&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthvaRoshini09&layout=compact&hide_border=true&langs_count=6" width="48%" />
+<img
+  src="https://streak-stats.demolab.com/?user=RuthvaRoshini09&theme=dark&hide_border=false&border_radius=10"
+  width="70%"
+  alt="RuthvaRoshini09 GitHub Stats"
+/>
 
 </div>
 
