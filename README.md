@@ -2,22 +2,27 @@
 
 # 👋 Hi, I'm Ruthva Roshini
 
-### ⚡ ECE Graduate • 💻 Software • 🔌 Embedded • 🌐 IoT
+### 🚀 ECE Graduate | 💻 Python Developer | 🔌 Embedded & IoT Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=ECE+Graduate;Python+Developer;Embedded+%26+IoT+Enthusiast;Hardware+%C3%97+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineer;Python+Developer;Embedded+Systems+%26+IoT+Enthusiast;Hardware+%C3%97+Software;Always+Learning+%26+Building" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=RuthvaRoshini09&label=Profile%20Views&color=555555&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=RuthvaRoshini09&label=Profile%20Views&style=flat-square" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 📌 About Me
 
-ECE graduate passionate about **Software Development, Embedded Systems & IoT**.
-I enjoy learning, building practical solutions, and connecting **hardware with software**.
+🎓 **ECE Graduate** | 💻 **Software Development** | 🔌 **Embedded & IoT**
+
+Passionate about building practical solutions by combining **hardware, software, and problem-solving**.
+
+- 💻 Interested in **Python, Flask, SQL & Backend Development**
+- 🔌 Exploring **Embedded Systems, ESP32, Arduino & IoT**
+- 🌱 Continuously learning and improving my technical skills
 
 ---
 
@@ -25,9 +30,13 @@ I enjoy learning, building practical solutions, and connecting **hardware with s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RuthvaRoshini09&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=RuthvaRoshini09&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthvaRoshini09&layout=compact&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=RuthvaRoshini09&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthvaRoshini09&layout=compact&hide_border=true&langs_count=6" width="48%" />
 
 </div>
 
@@ -35,41 +44,60 @@ I enjoy learning, building practical solutions, and connecting **hardware with s
 
 ## 🎯 My Goals
 
-<div align="center">
-
-**💻 Software** → Python • Flask • SQL • Backend
-
-**🔌 Electronics** → Embedded C • ESP32 • IoT • LoRa
-
-</div>
+- 💻 Build strong skills in **Python, Flask, SQL & Backend Development**
+- 🔌 Grow in **Embedded Systems, ESP32, IoT & Firmware**
+- 📊 Explore **Data Analytics & Machine Learning**
+- 🚀 Build practical solutions and grow as a **technology professional**
 
 ---
 
-## 🛠️ Technologies & Tools
-
 <div align="center">
 
-### 💻 Programming
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,python,js,html,css" />
+
+<br><br>
 
 ### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=flask,mysql" />
 
+<br><br>
+
 ### 🔌 Embedded & IoT
 
-**ESP32 • Arduino • LoRa • Sensors • Embedded Systems**
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+<br>
+
+<img src="https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-333333?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/LoRa-333333?style=flat-square&logo=semtech&logoColor=white" />
+
+<br><br>
 
 ### 📊 Data & AI
 
-**Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • MATLAB**
+<img src="https://img.shields.io/badge/Pandas-333333?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-333333?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-333333?style=flat-square&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-333333?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-333333?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-333333?style=flat-square&logo=mathworks&logoColor=white" />
 
-### 🔧 Tools
+<br><br>
+
+### 🔧 Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-**Excel • MySQL Workbench**
+<br>
+
+<img src="https://img.shields.io/badge/Excel-333333?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL%20Workbench-333333?style=flat-square&logo=mysql&logoColor=white" />
 
 </div>
 
@@ -79,7 +107,7 @@ I enjoy learning, building practical solutions, and connecting **hardware with s
 
 <div align="center">
 
-### ✨ Let's build something meaningful together!
+### 🤝 Let's connect, collaborate & build something meaningful!
 
 <br>
 
@@ -87,9 +115,13 @@ I enjoy learning, building practical solutions, and connecting **hardware with s
 <img src="https://img.shields.io/badge/Email-Contact%20Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/ruthva-roshini-s-8200b2250/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+&nbsp;
 
 <a href="https://github.com/RuthvaRoshini09">
 <img src="https://img.shields.io/badge/GitHub-Follow-333333?style=for-the-badge&logo=github&logoColor=white" />
@@ -97,7 +129,11 @@ I enjoy learning, building practical solutions, and connecting **hardware with s
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great!;Keep+Learning+%7C+Keep+Building" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
 
 ### 🌱 Build Better Tomorrow.
 
